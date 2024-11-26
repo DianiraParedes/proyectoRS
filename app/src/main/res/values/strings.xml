@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto_RS</string>
+    <string name="title_home">Lectora QR</string>
+    <string name="title_dashboard">Incidencias</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="default_web_client_id">761177917546-sjliqp168tojn7n3lcrdmllbjn0moc3k.apps.googleusercontent.com</string>
+
+</resources>
